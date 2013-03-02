@@ -9,4 +9,8 @@ Our hardware rig was:
 * An Ethernet shield because it had an SD card reader on it.
 * An ADXL335 3-axis accelerometer. 
 
+The output of the Z-axis of our first experiment with it onboard checked luggage looked like this: 
+
+![Z axis output](http://mattwaite.com.s3.amazonaws.com/readme.png "Z-axis output")
+
 
